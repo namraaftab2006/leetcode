@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1550-three-consecutive-odds](https://github.com/namraaftab2006/leetcode/tree/master/1550-three-consecutive-odds) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/namraaftab2006/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Two Pointers
 |  |

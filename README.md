@@ -14,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/namraaftab2006/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/namraaftab2006/leetcode/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
